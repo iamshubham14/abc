@@ -12,7 +12,7 @@
         <base href="" target="_blank">
 <img src="" alt="">
 
-<input type="number" name="" value="">
+<input type="num" name="" value="">
 <script type="text/javascript">
 </script>    </table>
   </body>
